@@ -9,14 +9,14 @@
 1. Data Cleaning
 2. Data Processing 
 3. Data Analysis - key questions answered
- 1. Compare the sales and orders using single charts
- 2. Which month got the highest sales and orders?
- 3. Who purchase more men or women in 2023?
- 4. What are different order status in 2023?
- 5. Lists top 10 states contributing to the sales?
- 6. Relation between age and gender based on numbers?
- 7. Which channel is contributing to maximum sales?
- 8. Highest selling categories & etc.?
+   1. Compare the sales and orders using single charts
+   2. Which month got the highest sales and orders?
+   3. Who purchase more men or women in 2023?
+ 5. What are different order status in 2023?
+ 6. Lists top 10 states contributing to the sales?
+ 7. Relation between age and gender based on numbers?
+ 8. Which channel is contributing to maximum sales?
+ 9. Highest selling categories & etc.?
 4. Data Visualization
 5. Generate Reports
 6.Insights Generation - 
